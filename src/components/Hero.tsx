@@ -16,7 +16,7 @@ export default function Hero() {
         <div className="text-center space-y-8 animate-fade-in">
           <div className="inline-flex items-center gap-2 px-4 py-2 bg-red-50 border border-red-100 rounded-full text-red-600 text-sm font-medium">
             <span className="w-2 h-2 bg-red-500 rounded-full animate-pulse"></span>
-            Nexil Studio v1.0.0 kullanılabilir
+            Nexil Studio v1.2.0 kullanılabilir
           </div>
 
           <div className="flex justify-center mb-8">
@@ -43,7 +43,7 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-8">
             <a
-              href="/NexilStudio-1.0.0.msi"
+              href="/NexilStudio_1.2.0_tr.msi"
               download
               onClick={() => {
                 if (user && !downloadRecorded) {

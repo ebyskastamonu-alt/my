@@ -18,7 +18,7 @@ export default function CTA() {
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6 mb-16">
           <a
-            href="/NexilStudio-1.0.0.msi"
+            href="/NexilStudio_1.2.0_tr.msi"
             download
             className="group inline-flex items-center gap-3 px-10 py-5 bg-gradient-to-r from-red-600 to-red-500 text-white rounded-xl font-semibold text-lg hover:from-red-500 hover:to-red-400 transition-all duration-300 hover:scale-105 hover:shadow-2xl shadow-red-500/50"
           >
